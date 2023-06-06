@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @yangyaaaa.
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Javascript,my goal is to be a front-end web developer.
-- 💞️ Right now I'm trying to build a business website.
-- 😊 I'm so excited about the first project of my life!
+- 👀 I’m interested in coding, cooking, gartening and traveling.
+- 🌱 I’m a HTML/CSS/Javascript/React/Redux/React Native front-end web developer.
+- 💞️ My next goal is to be a AWS machine learning engineer.
+- 😊 I'm so excited about learning new stuffs everyday!
+- 👉 My portfolio website: https://yangyaaaa.github.io/reactPortfolio/
 - 📫 How to reach me ... yangya.lackner@silentdays.at
 
 <!---
